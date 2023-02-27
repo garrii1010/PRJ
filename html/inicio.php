@@ -10,7 +10,7 @@ if ($_POST) {
 
     $servername = "localhost";
     $usuname = "DBgod";
-    $pass = "dbGOD";
+    $pass = "DBgod";
     $dbname = "DBusb";
     
     // Create connection

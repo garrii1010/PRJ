@@ -85,7 +85,7 @@ if ($_SESSION['user'] == 2){
     <?php
     $servername = "localhost";
     $username = "DBgod";
-    $password = "dbGOD";
+    $password = "DBgod";
     $dbname = "DBusb";
     
     $usuario = $_SESSION['user'];
