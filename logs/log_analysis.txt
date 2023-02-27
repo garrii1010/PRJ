@@ -1,0 +1,3193 @@
+[20:14:45] malicious: 0undetected : 61harmless : 0False==================================================
+Bkav
+version : 1.3.0.9899
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Bkav
+version : 1.3.0.9899
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Bkav
+version : 1.3.0.9899
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Lionic
+version : 7.5
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Lionic
+version : 7.5
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Lionic
+version : 7.5
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+tehtris
+version : None
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+tehtris
+version : None
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+tehtris
+version : None
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+DrWeb
+version : 7.0.58.8230
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+DrWeb
+version : 7.0.58.8230
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+DrWeb
+version : 7.0.58.8230
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+ClamAV
+version : 0.105.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+ClamAV
+version : 0.105.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+ClamAV
+version : 0.105.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+CMC
+version : 2.4.2022.1
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+True==================================================
+CMC
+version : 2.4.2022.1
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+False==================================================
+CMC
+version : 2.4.2022.1
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+CAT-QuickHeal
+version : 22.00
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+CAT-QuickHeal
+version : 22.00
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+CAT-QuickHeal
+version : 22.00
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+McAfee
+version : 6.0.6.653
+category : undetected
+method : blacklist
+update : 20221023
+==================================================
+True==================================================
+McAfee
+version : 6.0.6.653
+category : undetected
+method : blacklist
+update : 20221023
+==================================================
+False==================================================
+McAfee
+version : 6.0.6.653
+category : undetected
+method : blacklist
+update : 20221023
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Malwarebytes
+version : 4.3.3.37
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Malwarebytes
+version : 4.3.3.37
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Malwarebytes
+version : 4.3.3.37
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+VIPRE
+version : 6.0.0.35
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+VIPRE
+version : 6.0.0.35
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+VIPRE
+version : 6.0.0.35
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Sangfor
+version : 2.21.0.0
+category : undetected
+method : blacklist
+update : 20221018
+==================================================
+True==================================================
+Sangfor
+version : 2.21.0.0
+category : undetected
+method : blacklist
+update : 20221018
+==================================================
+False==================================================
+Sangfor
+version : 2.21.0.0
+category : undetected
+method : blacklist
+update : 20221018
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+K7AntiVirus
+version : 12.45.44999
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+K7AntiVirus
+version : 12.45.44999
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+K7AntiVirus
+version : 12.45.44999
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Alibaba
+version : 0.3.0.5
+category : type-unsupported
+method : blacklist
+update : 20190527
+==================================================
+False==================================================
+Alibaba
+version : 0.3.0.5
+category : type-unsupported
+method : blacklist
+update : 20190527
+==================================================
+False==================================================
+Alibaba
+version : 0.3.0.5
+category : type-unsupported
+method : blacklist
+update : 20190527
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+K7GW
+version : 12.45.44999
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+K7GW
+version : 12.45.44999
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+K7GW
+version : 12.45.44999
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Trustlook
+version : 1.0
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Trustlook
+version : 1.0
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Trustlook
+version : 1.0
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+BitDefenderTheta
+version : 7.2.37796.0
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+True==================================================
+BitDefenderTheta
+version : 7.2.37796.0
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+False==================================================
+BitDefenderTheta
+version : 7.2.37796.0
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+VirIT
+version : 9.5.312
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+VirIT
+version : 9.5.312
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+VirIT
+version : 9.5.312
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Cyren
+version : 6.5.1.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Cyren
+version : 6.5.1.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Cyren
+version : 6.5.1.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+SymantecMobileInsight
+version : 2.0
+category : type-unsupported
+method : blacklist
+update : 20220208
+==================================================
+False==================================================
+SymantecMobileInsight
+version : 2.0
+category : type-unsupported
+method : blacklist
+update : 20220208
+==================================================
+False==================================================
+SymantecMobileInsight
+version : 2.0
+category : type-unsupported
+method : blacklist
+update : 20220208
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Symantec
+version : 1.19.0.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Symantec
+version : 1.19.0.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Symantec
+version : 1.19.0.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Elastic
+version : 4.0.52
+category : type-unsupported
+method : blacklist
+update : 20221020
+==================================================
+False==================================================
+Elastic
+version : 4.0.52
+category : type-unsupported
+method : blacklist
+update : 20221020
+==================================================
+False==================================================
+Elastic
+version : 4.0.52
+category : type-unsupported
+method : blacklist
+update : 20221020
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+ESET-NOD32
+version : 26152
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+ESET-NOD32
+version : 26152
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+ESET-NOD32
+version : 26152
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+APEX
+version : 6.348
+category : type-unsupported
+method : blacklist
+update : 20221025
+==================================================
+False==================================================
+APEX
+version : 6.348
+category : type-unsupported
+method : blacklist
+update : 20221025
+==================================================
+False==================================================
+APEX
+version : 6.348
+category : type-unsupported
+method : blacklist
+update : 20221025
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+TrendMicro-HouseCall
+version : 10.0.0.1040
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+TrendMicro-HouseCall
+version : 10.0.0.1040
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+TrendMicro-HouseCall
+version : 10.0.0.1040
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Avast
+version : 21.1.5827.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Avast
+version : 21.1.5827.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Avast
+version : 21.1.5827.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Cynet
+version : 4.0.0.27
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Cynet
+version : 4.0.0.27
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Cynet
+version : 4.0.0.27
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Kaspersky
+version : 21.0.1.45
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Kaspersky
+version : 21.0.1.45
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Kaspersky
+version : 21.0.1.45
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+BitDefender
+version : 7.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+BitDefender
+version : 7.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+BitDefender
+version : 7.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+NANO-Antivirus
+version : 1.0.146.25648
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+NANO-Antivirus
+version : 1.0.146.25648
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+NANO-Antivirus
+version : 1.0.146.25648
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+SUPERAntiSpyware
+version : 5.6.0.1032
+category : undetected
+method : blacklist
+update : 20221022
+==================================================
+True==================================================
+SUPERAntiSpyware
+version : 5.6.0.1032
+category : undetected
+method : blacklist
+update : 20221022
+==================================================
+False==================================================
+SUPERAntiSpyware
+version : 5.6.0.1032
+category : undetected
+method : blacklist
+update : 20221022
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+MicroWorld-eScan
+version : 14.0.409.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+MicroWorld-eScan
+version : 14.0.409.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+MicroWorld-eScan
+version : 14.0.409.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Rising
+version : 25.0.0.27
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Rising
+version : 25.0.0.27
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Rising
+version : 25.0.0.27
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Ad-Aware
+version : 3.0.21.193
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Ad-Aware
+version : 3.0.21.193
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Ad-Aware
+version : 3.0.21.193
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+TACHYON
+version : 2022-10-26.02
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+TACHYON
+version : 2022-10-26.02
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+TACHYON
+version : 2022-10-26.02
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Emsisoft
+version : 2022.6.0.32461
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Emsisoft
+version : 2022.6.0.32461
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Emsisoft
+version : 2022.6.0.32461
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Comodo
+version : 35100
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Comodo
+version : 35100
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Comodo
+version : 35100
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+F-Secure
+version : 18.10.1137.128
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+F-Secure
+version : 18.10.1137.128
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+F-Secure
+version : 18.10.1137.128
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Baidu
+version : 1.0.0.2
+category : undetected
+method : blacklist
+update : 20190318
+==================================================
+True==================================================
+Baidu
+version : 1.0.0.2
+category : undetected
+method : blacklist
+update : 20190318
+==================================================
+False==================================================
+Baidu
+version : 1.0.0.2
+category : undetected
+method : blacklist
+update : 20190318
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Zillya
+version : 2.0.0.4738
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Zillya
+version : 2.0.0.4738
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Zillya
+version : 2.0.0.4738
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+TrendMicro
+version : 11.0.0.1006
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+TrendMicro
+version : 11.0.0.1006
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+TrendMicro
+version : 11.0.0.1006
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+McAfee-GW-Edition
+version : v2019.1.2+3728
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+McAfee-GW-Edition
+version : v2019.1.2+3728
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+McAfee-GW-Edition
+version : v2019.1.2+3728
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+SentinelOne
+version : 22.3.2.9
+category : type-unsupported
+method : blacklist
+update : 20221003
+==================================================
+False==================================================
+SentinelOne
+version : 22.3.2.9
+category : type-unsupported
+method : blacklist
+update : 20221003
+==================================================
+False==================================================
+SentinelOne
+version : 22.3.2.9
+category : type-unsupported
+method : blacklist
+update : 20221003
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Trapmine
+version : 4.0.1.119
+category : type-unsupported
+method : blacklist
+update : 20220907
+==================================================
+False==================================================
+Trapmine
+version : 4.0.1.119
+category : type-unsupported
+method : blacklist
+update : 20220907
+==================================================
+False==================================================
+Trapmine
+version : 4.0.1.119
+category : type-unsupported
+method : blacklist
+update : 20220907
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+FireEye
+version : 35.24.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+FireEye
+version : 35.24.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+FireEye
+version : 35.24.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Sophos
+version : 1.4.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Sophos
+version : 1.4.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Sophos
+version : 1.4.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Paloalto
+version : 0.9.0.1003
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Paloalto
+version : 0.9.0.1003
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Paloalto
+version : 0.9.0.1003
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+GData
+version : A:25.34324B:27.29313
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+GData
+version : A:25.34324B:27.29313
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+GData
+version : A:25.34324B:27.29313
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Jiangmin
+version : 16.0.100
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Jiangmin
+version : 16.0.100
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Jiangmin
+version : 16.0.100
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Webroot
+version : 1.0.0.403
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Webroot
+version : 1.0.0.403
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Webroot
+version : 1.0.0.403
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Avira
+version : 8.3.3.16
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Avira
+version : 8.3.3.16
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Avira
+version : 8.3.3.16
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Antiy-AVL
+version : 3.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Antiy-AVL
+version : 3.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Antiy-AVL
+version : 3.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Kingsoft
+version : 2017.9.26.565
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Kingsoft
+version : 2017.9.26.565
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Kingsoft
+version : 2017.9.26.565
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Gridinsoft
+version : 1.0.98.174
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Gridinsoft
+version : 1.0.98.174
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Gridinsoft
+version : 1.0.98.174
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Arcabit
+version : 2022.0.0.14
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Arcabit
+version : 2022.0.0.14
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Arcabit
+version : 2022.0.0.14
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+ViRobot
+version : 2014.3.20.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+ViRobot
+version : 2014.3.20.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+ViRobot
+version : 2014.3.20.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+ZoneAlarm
+version : 1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+ZoneAlarm
+version : 1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+ZoneAlarm
+version : 1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Avast-Mobile
+version : 221026-02
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Avast-Mobile
+version : 221026-02
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Avast-Mobile
+version : 221026-02
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Microsoft
+version : 1.1.19700.3
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Microsoft
+version : 1.1.19700.3
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Microsoft
+version : 1.1.19700.3
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Google
+version : 1666807241
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Google
+version : 1666807241
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Google
+version : 1666807241
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+BitDefenderFalx
+version : 2.0.936
+category : type-unsupported
+method : blacklist
+update : 20220103
+==================================================
+False==================================================
+BitDefenderFalx
+version : 2.0.936
+category : type-unsupported
+method : blacklist
+update : 20220103
+==================================================
+False==================================================
+BitDefenderFalx
+version : 2.0.936
+category : type-unsupported
+method : blacklist
+update : 20220103
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+AhnLab-V3
+version : 3.22.2.10299
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+AhnLab-V3
+version : 3.22.2.10299
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+AhnLab-V3
+version : 3.22.2.10299
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Acronis
+version : 1.2.0.108
+category : undetected
+method : blacklist
+update : 20220426
+==================================================
+True==================================================
+Acronis
+version : 1.2.0.108
+category : undetected
+method : blacklist
+update : 20220426
+==================================================
+False==================================================
+Acronis
+version : 1.2.0.108
+category : undetected
+method : blacklist
+update : 20220426
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+VBA32
+version : 5.0.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+VBA32
+version : 5.0.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+VBA32
+version : 5.0.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+ALYac
+version : 1.1.3.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+ALYac
+version : 1.1.3.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+ALYac
+version : 1.1.3.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+MAX
+version : 2019.9.16.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+MAX
+version : 2019.9.16.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+MAX
+version : 2019.9.16.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Cylance
+version : 2.3.1.101
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Cylance
+version : 2.3.1.101
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Cylance
+version : 2.3.1.101
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Zoner
+version : 2.2.2.0
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+True==================================================
+Zoner
+version : 2.2.2.0
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+False==================================================
+Zoner
+version : 2.2.2.0
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Tencent
+version : 1.0.0.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Tencent
+version : 1.0.0.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Tencent
+version : 1.0.0.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Yandex
+version : 5.5.2.24
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Yandex
+version : 5.5.2.24
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Yandex
+version : 5.5.2.24
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Ikarus
+version : 6.0.26.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Ikarus
+version : 6.0.26.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Ikarus
+version : 6.0.26.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+MaxSecure
+version : 1.0.0.1
+category : undetected
+method : blacklist
+update : 20221022
+==================================================
+True==================================================
+MaxSecure
+version : 1.0.0.1
+category : undetected
+method : blacklist
+update : 20221022
+==================================================
+False==================================================
+MaxSecure
+version : 1.0.0.1
+category : undetected
+method : blacklist
+update : 20221022
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Fortinet
+version : 6.4.258.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Fortinet
+version : 6.4.258.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Fortinet
+version : 6.4.258.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+AVG
+version : 21.1.5827.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+AVG
+version : 21.1.5827.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+AVG
+version : 21.1.5827.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Cybereason
+version : 1.2.449
+category : type-unsupported
+method : blacklist
+update : 20210330
+==================================================
+False==================================================
+Cybereason
+version : 1.2.449
+category : type-unsupported
+method : blacklist
+update : 20210330
+==================================================
+False==================================================
+Cybereason
+version : 1.2.449
+category : type-unsupported
+method : blacklist
+update : 20210330
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Panda
+version : 4.6.4.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Panda
+version : 4.6.4.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Panda
+version : 4.6.4.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+CrowdStrike
+version : 1.0
+category : type-unsupported
+method : blacklist
+update : None
+==================================================
+False==================================================
+CrowdStrike
+version : 1.0
+category : type-unsupported
+method : blacklist
+update : None
+==================================================
+False==================================================
+CrowdStrike
+version : 1.0
+category : type-unsupported
+method : blacklist
+update : None
+==================================================
+ <------File name------> YTBjMzQwOTU1NTNlN2NjODJhMTg2MTE1MWNkODMyZDg6MTY2NjgxMTA2Mg==[20:14:47] malicious: 0undetected : 61harmless : 0False==================================================
+Bkav
+version : 1.3.0.9899
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Bkav
+version : 1.3.0.9899
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Bkav
+version : 1.3.0.9899
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Lionic
+version : 7.5
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Lionic
+version : 7.5
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Lionic
+version : 7.5
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+tehtris
+version : None
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+tehtris
+version : None
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+tehtris
+version : None
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+DrWeb
+version : 7.0.58.8230
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+DrWeb
+version : 7.0.58.8230
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+DrWeb
+version : 7.0.58.8230
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+ClamAV
+version : 0.105.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+ClamAV
+version : 0.105.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+ClamAV
+version : 0.105.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+FireEye
+version : 35.24.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+FireEye
+version : 35.24.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+FireEye
+version : 35.24.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+CAT-QuickHeal
+version : 22.00
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+CAT-QuickHeal
+version : 22.00
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+CAT-QuickHeal
+version : 22.00
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+McAfee
+version : 6.0.6.653
+category : undetected
+method : blacklist
+update : 20221023
+==================================================
+True==================================================
+McAfee
+version : 6.0.6.653
+category : undetected
+method : blacklist
+update : 20221023
+==================================================
+False==================================================
+McAfee
+version : 6.0.6.653
+category : undetected
+method : blacklist
+update : 20221023
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Malwarebytes
+version : 4.3.3.37
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Malwarebytes
+version : 4.3.3.37
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Malwarebytes
+version : 4.3.3.37
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Zillya
+version : 2.0.0.4738
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Zillya
+version : 2.0.0.4738
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Zillya
+version : 2.0.0.4738
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Paloalto
+version : 0.9.0.1003
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Paloalto
+version : 0.9.0.1003
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Paloalto
+version : 0.9.0.1003
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Sangfor
+version : 2.21.0.0
+category : undetected
+method : blacklist
+update : 20221018
+==================================================
+True==================================================
+Sangfor
+version : 2.21.0.0
+category : undetected
+method : blacklist
+update : 20221018
+==================================================
+False==================================================
+Sangfor
+version : 2.21.0.0
+category : undetected
+method : blacklist
+update : 20221018
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+K7AntiVirus
+version : 12.45.44999
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+K7AntiVirus
+version : 12.45.44999
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+K7AntiVirus
+version : 12.45.44999
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Alibaba
+version : 0.3.0.5
+category : type-unsupported
+method : blacklist
+update : 20190527
+==================================================
+False==================================================
+Alibaba
+version : 0.3.0.5
+category : type-unsupported
+method : blacklist
+update : 20190527
+==================================================
+False==================================================
+Alibaba
+version : 0.3.0.5
+category : type-unsupported
+method : blacklist
+update : 20190527
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+K7GW
+version : 12.45.44999
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+K7GW
+version : 12.45.44999
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+K7GW
+version : 12.45.44999
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Trustlook
+version : 1.0
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Trustlook
+version : 1.0
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Trustlook
+version : 1.0
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+BitDefenderTheta
+version : 7.2.37796.0
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+True==================================================
+BitDefenderTheta
+version : 7.2.37796.0
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+False==================================================
+BitDefenderTheta
+version : 7.2.37796.0
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+VirIT
+version : 9.5.312
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+VirIT
+version : 9.5.312
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+VirIT
+version : 9.5.312
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Cyren
+version : 6.5.1.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Cyren
+version : 6.5.1.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Cyren
+version : 6.5.1.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+SymantecMobileInsight
+version : 2.0
+category : type-unsupported
+method : blacklist
+update : 20220208
+==================================================
+False==================================================
+SymantecMobileInsight
+version : 2.0
+category : type-unsupported
+method : blacklist
+update : 20220208
+==================================================
+False==================================================
+SymantecMobileInsight
+version : 2.0
+category : type-unsupported
+method : blacklist
+update : 20220208
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Symantec
+version : 1.19.0.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Symantec
+version : 1.19.0.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Symantec
+version : 1.19.0.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Elastic
+version : 4.0.52
+category : type-unsupported
+method : blacklist
+update : 20221020
+==================================================
+False==================================================
+Elastic
+version : 4.0.52
+category : type-unsupported
+method : blacklist
+update : 20221020
+==================================================
+False==================================================
+Elastic
+version : 4.0.52
+category : type-unsupported
+method : blacklist
+update : 20221020
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+ESET-NOD32
+version : 26152
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+ESET-NOD32
+version : 26152
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+ESET-NOD32
+version : 26152
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+APEX
+version : 6.348
+category : type-unsupported
+method : blacklist
+update : 20221025
+==================================================
+False==================================================
+APEX
+version : 6.348
+category : type-unsupported
+method : blacklist
+update : 20221025
+==================================================
+False==================================================
+APEX
+version : 6.348
+category : type-unsupported
+method : blacklist
+update : 20221025
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+TrendMicro-HouseCall
+version : 10.0.0.1040
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+TrendMicro-HouseCall
+version : 10.0.0.1040
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+TrendMicro-HouseCall
+version : 10.0.0.1040
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Avast
+version : 21.1.5827.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Avast
+version : 21.1.5827.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Avast
+version : 21.1.5827.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Cynet
+version : 4.0.0.27
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Cynet
+version : 4.0.0.27
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Cynet
+version : 4.0.0.27
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Kaspersky
+version : 21.0.1.45
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Kaspersky
+version : 21.0.1.45
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Kaspersky
+version : 21.0.1.45
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+BitDefender
+version : 7.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+BitDefender
+version : 7.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+BitDefender
+version : 7.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+NANO-Antivirus
+version : 1.0.146.25648
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+NANO-Antivirus
+version : 1.0.146.25648
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+NANO-Antivirus
+version : 1.0.146.25648
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+SUPERAntiSpyware
+version : 5.6.0.1032
+category : undetected
+method : blacklist
+update : 20221022
+==================================================
+True==================================================
+SUPERAntiSpyware
+version : 5.6.0.1032
+category : undetected
+method : blacklist
+update : 20221022
+==================================================
+False==================================================
+SUPERAntiSpyware
+version : 5.6.0.1032
+category : undetected
+method : blacklist
+update : 20221022
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+MicroWorld-eScan
+version : 14.0.409.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+MicroWorld-eScan
+version : 14.0.409.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+MicroWorld-eScan
+version : 14.0.409.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Tencent
+version : 1.0.0.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Tencent
+version : 1.0.0.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Tencent
+version : 1.0.0.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Ad-Aware
+version : 3.0.21.193
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Ad-Aware
+version : 3.0.21.193
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Ad-Aware
+version : 3.0.21.193
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Emsisoft
+version : 2022.6.0.32461
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Emsisoft
+version : 2022.6.0.32461
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Emsisoft
+version : 2022.6.0.32461
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Comodo
+version : 35100
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Comodo
+version : 35100
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Comodo
+version : 35100
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+F-Secure
+version : 18.10.1137.128
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+F-Secure
+version : 18.10.1137.128
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+F-Secure
+version : 18.10.1137.128
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Baidu
+version : 1.0.0.2
+category : undetected
+method : blacklist
+update : 20190318
+==================================================
+True==================================================
+Baidu
+version : 1.0.0.2
+category : undetected
+method : blacklist
+update : 20190318
+==================================================
+False==================================================
+Baidu
+version : 1.0.0.2
+category : undetected
+method : blacklist
+update : 20190318
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+VIPRE
+version : 6.0.0.35
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+VIPRE
+version : 6.0.0.35
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+VIPRE
+version : 6.0.0.35
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+TrendMicro
+version : 11.0.0.1006
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+TrendMicro
+version : 11.0.0.1006
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+TrendMicro
+version : 11.0.0.1006
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+McAfee-GW-Edition
+version : v2019.1.2+3728
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+McAfee-GW-Edition
+version : v2019.1.2+3728
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+McAfee-GW-Edition
+version : v2019.1.2+3728
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+SentinelOne
+version : 22.3.2.9
+category : type-unsupported
+method : blacklist
+update : 20221003
+==================================================
+False==================================================
+SentinelOne
+version : 22.3.2.9
+category : type-unsupported
+method : blacklist
+update : 20221003
+==================================================
+False==================================================
+SentinelOne
+version : 22.3.2.9
+category : type-unsupported
+method : blacklist
+update : 20221003
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Trapmine
+version : 4.0.1.119
+category : type-unsupported
+method : blacklist
+update : 20220907
+==================================================
+False==================================================
+Trapmine
+version : 4.0.1.119
+category : type-unsupported
+method : blacklist
+update : 20220907
+==================================================
+False==================================================
+Trapmine
+version : 4.0.1.119
+category : type-unsupported
+method : blacklist
+update : 20220907
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+CMC
+version : 2.4.2022.1
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+True==================================================
+CMC
+version : 2.4.2022.1
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+False==================================================
+CMC
+version : 2.4.2022.1
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Sophos
+version : 1.4.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Sophos
+version : 1.4.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Sophos
+version : 1.4.1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Ikarus
+version : 6.0.26.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Ikarus
+version : 6.0.26.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Ikarus
+version : 6.0.26.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+GData
+version : A:25.34324B:27.29313
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+GData
+version : A:25.34324B:27.29313
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+GData
+version : A:25.34324B:27.29313
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Jiangmin
+version : 16.0.100
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Jiangmin
+version : 16.0.100
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Jiangmin
+version : 16.0.100
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Webroot
+version : 1.0.0.403
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Webroot
+version : 1.0.0.403
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Webroot
+version : 1.0.0.403
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Avira
+version : 8.3.3.16
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Avira
+version : 8.3.3.16
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Avira
+version : 8.3.3.16
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Antiy-AVL
+version : 3.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Antiy-AVL
+version : 3.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Antiy-AVL
+version : 3.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Kingsoft
+version : 2017.9.26.565
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Kingsoft
+version : 2017.9.26.565
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Kingsoft
+version : 2017.9.26.565
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Gridinsoft
+version : 1.0.98.174
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Gridinsoft
+version : 1.0.98.174
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Gridinsoft
+version : 1.0.98.174
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Arcabit
+version : 2022.0.0.14
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Arcabit
+version : 2022.0.0.14
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Arcabit
+version : 2022.0.0.14
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+ViRobot
+version : 2014.3.20.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+ViRobot
+version : 2014.3.20.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+ViRobot
+version : 2014.3.20.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+ZoneAlarm
+version : 1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+ZoneAlarm
+version : 1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+ZoneAlarm
+version : 1.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Avast-Mobile
+version : 221026-02
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Avast-Mobile
+version : 221026-02
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Avast-Mobile
+version : 221026-02
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Microsoft
+version : 1.1.19700.3
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Microsoft
+version : 1.1.19700.3
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Microsoft
+version : 1.1.19700.3
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Google
+version : 1666807241
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Google
+version : 1666807241
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Google
+version : 1666807241
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+BitDefenderFalx
+version : 2.0.936
+category : type-unsupported
+method : blacklist
+update : 20220103
+==================================================
+False==================================================
+BitDefenderFalx
+version : 2.0.936
+category : type-unsupported
+method : blacklist
+update : 20220103
+==================================================
+False==================================================
+BitDefenderFalx
+version : 2.0.936
+category : type-unsupported
+method : blacklist
+update : 20220103
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+AhnLab-V3
+version : 3.22.2.10299
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+AhnLab-V3
+version : 3.22.2.10299
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+AhnLab-V3
+version : 3.22.2.10299
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Acronis
+version : 1.2.0.108
+category : undetected
+method : blacklist
+update : 20220426
+==================================================
+True==================================================
+Acronis
+version : 1.2.0.108
+category : undetected
+method : blacklist
+update : 20220426
+==================================================
+False==================================================
+Acronis
+version : 1.2.0.108
+category : undetected
+method : blacklist
+update : 20220426
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+VBA32
+version : 5.0.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+VBA32
+version : 5.0.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+VBA32
+version : 5.0.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+ALYac
+version : 1.1.3.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+ALYac
+version : 1.1.3.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+ALYac
+version : 1.1.3.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+MAX
+version : 2019.9.16.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+MAX
+version : 2019.9.16.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+MAX
+version : 2019.9.16.1
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Cylance
+version : 2.3.1.101
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Cylance
+version : 2.3.1.101
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Cylance
+version : 2.3.1.101
+category : type-unsupported
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Zoner
+version : 2.2.2.0
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+True==================================================
+Zoner
+version : 2.2.2.0
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+False==================================================
+Zoner
+version : 2.2.2.0
+category : undetected
+method : blacklist
+update : 20221025
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Rising
+version : 25.0.0.27
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Rising
+version : 25.0.0.27
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Rising
+version : 25.0.0.27
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Yandex
+version : 5.5.2.24
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Yandex
+version : 5.5.2.24
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Yandex
+version : 5.5.2.24
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+TACHYON
+version : 2022-10-26.02
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+TACHYON
+version : 2022-10-26.02
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+TACHYON
+version : 2022-10-26.02
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+MaxSecure
+version : 1.0.0.1
+category : undetected
+method : blacklist
+update : 20221022
+==================================================
+True==================================================
+MaxSecure
+version : 1.0.0.1
+category : undetected
+method : blacklist
+update : 20221022
+==================================================
+False==================================================
+MaxSecure
+version : 1.0.0.1
+category : undetected
+method : blacklist
+update : 20221022
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Fortinet
+version : 6.4.258.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Fortinet
+version : 6.4.258.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Fortinet
+version : 6.4.258.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+AVG
+version : 21.1.5827.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+AVG
+version : 21.1.5827.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+AVG
+version : 21.1.5827.0
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Cybereason
+version : 1.2.449
+category : type-unsupported
+method : blacklist
+update : 20210330
+==================================================
+False==================================================
+Cybereason
+version : 1.2.449
+category : type-unsupported
+method : blacklist
+update : 20210330
+==================================================
+False==================================================
+Cybereason
+version : 1.2.449
+category : type-unsupported
+method : blacklist
+update : 20210330
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+Panda
+version : 4.6.4.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+True==================================================
+Panda
+version : 4.6.4.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+False==================================================
+Panda
+version : 4.6.4.2
+category : undetected
+method : blacklist
+update : 20221026
+==================================================
+malicious: 0undetected : 61harmless : 0False==================================================
+CrowdStrike
+version : 1.0
+category : type-unsupported
+method : blacklist
+update : None
+==================================================
+False==================================================
+CrowdStrike
+version : 1.0
+category : type-unsupported
+method : blacklist
+update : None
+==================================================
+False==================================================
+CrowdStrike
+version : 1.0
+category : type-unsupported
+method : blacklist
+update : None
+==================================================
+ <------File name------> NWI1ZDlkM2ZhY2Q5ZGIyYTg1YjljYzkwNjg4ZjE1ODg6MTY2NjgxMTA2Mw==
