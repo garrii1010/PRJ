@@ -18,7 +18,7 @@ try:
     connection = mysql.connector.connect(host='localhost',
                                          database='DBusb',
                                          user='DBgod',
-                                         password='dbGOD')
+                                         password='DBgod')
 
     # Scan del USB
     for root, dirs, files in os.walk("/media/usb"):
