@@ -61,7 +61,7 @@ body {
 </head>
 <body>
 <h1>
-  Introducir nombre de empresa
+  Proyecto C.O.R
 </h1>
 <div class="topnav">
   <a class="active" href="index.php">Inicio</a>
