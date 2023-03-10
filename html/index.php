@@ -8,7 +8,7 @@ session_start();
 <style>
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, Roboto;
 }
 
 .topnav {
@@ -61,30 +61,29 @@ body {
 </head>
 <body>
 <h1>
-  Proyecto C.O.R
+  safeUSB
 </h1>
 <div class="topnav">
-  <a class="active" href="index.php">Inicio</a>
-  <a href="index2.php">Archivos</a>
-  <a href="inicio.php">Iniciar sesión</a>
-  <a href="registro.php">Registrarse</a>
+  <a href="index.php">About us</a>
+  <a href="index2.php">Files</a>
+  <a href="login.php">Log in</a>
+  <a href="signin.php">Sign in</a>
 </div>
 <div class='nav2'>
   <?php
   if ($_SESSION['user'] == 2){
-    echo "<a href='grupos.php'>Grupos</a>"; 
-    echo "<a href='assignacion.php'>Assignación USB</a> ";
-    echo "<a href='administración.php'>Administración</a> ";
+    echo "<a href='groups.php'>Groups</a>"; 
+    echo "<a href='assignation.php'>USB Assignation</a> ";
   }
   ?>
   </div>
 <div style="padding-left:16px">
-  <h2>Que hacemos?</h2>
-  <p>Nosotros proporcionamos un software de detección de amenazas para prevenir la infección de los sistemas de una empresa a traves de ficheros que los empleados traigan en una memoria portatil.</p>
+  <h2>Keep your USB safe!</h2>
+  <p>Tired of employees with bad cyber-security practices? Don't worry, we got you! Try us.</p>
 </div>
 <div style="padding-left:16px">
-  <h2>Como funciona?</h2>
-  <p>Para poder analizar una memoria portatil, deberas dirijirte al servidor introducir el pendrive en la maquina, y este copiara todos los archivos para analizarlos utilizando la API de Virus Total, en cuando acabe el registro de los ficheros, los ficheros que no sean considerados una amenaza estaran disponibles en nuestro servidor web.</p>
+  <h2>How it works?</h2>
+  <p>Just plug your USB into the machine and it will start the scan.</p>
 </div>
 </body>
 </html>

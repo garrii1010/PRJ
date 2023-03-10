@@ -9,8 +9,8 @@ if ($_POST) {
     $password = $_POST['password'];
 
     $servername = "localhost";
-    $usuname = "DBgod";
-    $pass = "DBgod";
+    $usuname = "root";
+    $pass = "contraseña";
     $dbname = "DBusb";
     
     // Create connection
@@ -82,7 +82,7 @@ if ($_POST) {
         }
         body {
             margin: 0;
-            font-family: Arial, Helvetica, sans-serif;
+            font-family: Arial, Helvetica, Roboto;
         }
 
         .topnav {
@@ -135,20 +135,20 @@ if ($_POST) {
 </head>
 <body>
 <h1>
-  Introducir nombre de empresa
+  safeUSB
 </h1>
 <div class="topnav">
-  <a class="active" href="index.php">Inicio</a>
-  <a href="index2.php">Archivos</a>
-  <a href="inicio.php">Iniciar sesión</a>
-  <a href="registro.php">Registrarse</a>
+  <a href="index.php">About us</a>
+  <a href="index2.php">Files</a>
+  <a href="login.php">Log in</a>
+  <a href="signin.php">Sign in</a>
 </div>
 <div class='nav2'>
 <?php
 if ($_SESSION['user'] == 2){
-	echo "<a href='grupos.php'>Grupos</a>"; 
-	echo "<a href='assignacion.php'>Assignación USB</a> ";
-	echo "<a href='administración.php'>Administración</a> ";
+    echo "<a href='assignation.php'>USB Assignation</a> ";
+    echo "<a href='groups.php'>Groups</a>"; 
+	
 }
 ?>
 </div>
@@ -156,18 +156,18 @@ if ($_SESSION['user'] == 2){
     <br>
     <br>
     <div id="container">
-        <h1>Iniciar Sesión</h1>
+        <h1>Log in</h1>
         <form method="post">
             <div class="form-group">
-                <label for="username">Usuario</label>
+                <label for="username">Username</label>
                 <input type="text" name="username" id="username" />
             </div>
             <div class="form-group">
-                <label for="password">Contraseña</label>
+                <label for="password">Password</label>
                 <input type="password" name="password" id="password" />
             </div>
             <div class="form-group">
-                <input type="submit" value="Iniciar Sesión" class="btn" />
+                <input type="submit" value="Log in" class="btn-default" />
             </div>
         </form>
     </div>

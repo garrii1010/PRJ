@@ -2,7 +2,7 @@
 session_start();
 
 if (!isset($_SESSION['user'])) {
-    header('Location: inicio.php');
+    header('Location: login.php');
     exit;
 }
 ?>
@@ -12,7 +12,7 @@ if (!isset($_SESSION['user'])) {
 <style>
 body {
   margin: 0;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Arial, Helvetica, Roboto;
 }
 
 .topnav {
@@ -65,27 +65,27 @@ body {
 </head>
 <body>
 <h1>
-  Introducir nombre de empresa
+  safeUSB
 </h1>
 <div class="topnav">
-  <a class="active" href="index.php">Inicio</a>
-  <a href="index2.php">Archivos</a>
-  <a href="inicio.php">Iniciar sesión</a>
-  <a href="registro.php">Registrarse</a>
+  <a href="index.php">About us</a>
+  <a href="index2.php">Files</a>
+  <a href="login.php">Log in</a>
+  <a href="signin.php">Sign in</a>
 </div>
 <div class='nav2'>
 <?php
 if ($_SESSION['user'] == 2){
-	echo "<a href='grupos.php'>Grupos</a>"; 
-	echo "<a href='assignacion.php'>Assignación USB</a> ";
-	echo "<a href='administración.php'>Administración</a> ";
+  echo "<a href='assignation.php'>USB Assignation</a> ";
+  echo "<a href='groups.php'>Groups</a>"; 
+	
 }
 ?>
 </div>    
     <?php
     $servername = "localhost";
-    $username = "DBgod";
-    $password = "DBgod";
+    $username = "root";
+    $password = "contraseña";
     $dbname = "DBusb";
     
     $usuario = $_SESSION['user'];
@@ -95,15 +95,14 @@ if ($_SESSION['user'] == 2){
     if ($conn->connect_error) {
         die("Connection failed: " . $conn->connect_error);
     } 
-    
-    $sql = "SELECT ID, nombre, direccion, MD5 FROM archivos WHERE usb = (SELECT id_usb FROM usb WHERE propietario = (SELECT id_usu FROM usuarios WHERE id_usu = '$usuario')) OR usb = (SELECT id_usb FROM usb WHERE grupo = (SELECT id_gr FROM ubic WHERE id_usu = '$usuario'))";
+    $sql = "SELECT ID, nombre, direccion, MD5 FROM archivos WHERE usb IN (SELECT id_usb FROM usb WHERE propietario = (SELECT id_usu FROM usuarios WHERE id_usu = '$usuario')) OR usb IN (SELECT id_usb FROM usb WHERE grupo = (SELECT id_gr FROM ubic WHERE id_usu = '$usuario'))";
     $result = $conn->query($sql);
     
     if ($result->num_rows > 0) {
-        echo "<table><tr><th>Nombre</th><th>Link Descarga</th></tr>";
+        echo "<table><tr><th>Name</th><th>Download link</th></tr>";
         // output data of each row
         while($row = $result->fetch_assoc()) {
-            echo "<tr><td>".$row["nombre"]."</td><td><a href=".$row["direccion"]." download>Descargar</td></tr>";
+            echo "<tr><td>".$row["nombre"]."</td><td><a href=".$row["direccion"]." download>Download</td></tr>";
         }
         echo "</table>";
     } else {

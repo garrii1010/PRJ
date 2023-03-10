@@ -1,7 +1,7 @@
 <?php
 session_start();
 if (!isset($_SESSION['user'])) {
-    header('Location: inicio.php');
+    header('Location: login.php');
     exit;
 }
 if ($_SESSION['user'] != 2) {
@@ -15,8 +15,8 @@ if ($_POST) {
 
 
     $servername = "localhost";
-    $usuname = "DBgod";
-    $pass = "DBgod";
+    $usuname = "root";
+    $pass = "contraseña";
     $dbname = "DBusb";
     
     // Create connection
@@ -27,7 +27,7 @@ if ($_POST) {
     } 
     $update = "UPDATE usb SET propietario='$username', grupo='$grupo' WHERE id_usb='$usb'";
     if (mysqli_query($conn, $update)){ 
-            header('Location: grupos.php');
+            header('Location: groups.php');
             exit;
             echo "Alta registre";
     }
@@ -42,7 +42,7 @@ if ($_POST) {
 
 <html>
 <head>
-    <title>Login Page</title>
+    <title>Inicio de sesión</title>
     <style>
         table {
         margin: 0 auto;
@@ -137,20 +137,19 @@ if ($_POST) {
 </head>
 <body>
 <h1>
-  Introducir nombre de empresa
+  safeUSB
 </h1>
 <div class="topnav">
-  <a class="active" href="index.php">Inicio</a>
-  <a href="index2.php">Archivos</a>
-  <a href="inicio.php">Iniciar sesión</a>
-  <a href="registro.php">Registrarse</a>
+  <a href="index.php">About us</a>
+  <a href="index2.php">Files</a>
+  <a href="login.php">Log in</a>
+  <a href="signin.php">Sign in</a>
 </div>
 <div class='nav2'>
 <?php
 if ($_SESSION['user'] == 2){
-	echo "<a href='grupos.php'>Grupos</a>"; 
-	echo "<a href='assignacion.php'>Assignación USB</a> ";
-	echo "<a href='administración.php'>Administración</a> ";
+    echo "<a href='groups.php'>Groups</a>"; 
+	echo "<a href='assignation.php'>USB Assignation</a> ";
 }
 ?>
 
@@ -159,27 +158,26 @@ if ($_SESSION['user'] == 2){
     <br>
     <br>
     <div id="container">
-        <h1>Assignación USB</h1>
+        <h1>USB Assignation</h1>
         <form method="post">
             <div class="form-group">
                 <label for="username">USB</label>
                 <select name="usb" id="usb" >
 				<?php
     				$servername = "localhost";
-    				$username = "DBgod";
-    				$password = "dbGOD";
-    				$dbname = "DBgod";
+    				$username = "root";
+                    $password = "contraseña";
+    				$dbname = "DBusb";
 				    
     				// Create connection
     				$conn = new mysqli($servername, $username, $password, $dbname);
     				// Check connection
     				if ($conn->connect_error) {
-        				die("Connection failed: " . $conn->connect_error);
+        				die("Connection failed: " . $conn->connect_error); 
     				} 
-				    
-    				$sql = "SELECT id_usb, nombre FROM usb WHERE propietario IS NULL OR grupo IS NULL";
+				    $sql = "SELECT id_usb, nombre FROM usb WHERE propietario IS NULL OR grupo IS NULL";
     				$result = $conn->query($sql);
-				    echo "<option value= 'NULL'>-------</option>";
+                    echo "<option value= 'NULL'>-------</option>";
     				if ($result->num_rows > 0) {
         				while($row = $result->fetch_assoc()) {
 							echo "<option value=".$row["id_usb"].">".$row["nombre"]."</option>";
@@ -192,12 +190,12 @@ if ($_SESSION['user'] == 2){
 				</select>
             </div>
             <div class="form-group">
-                <label for="username">Usuario</label>
+                <label for="username">Username</label>
                 <select name="usuario" id="usuario" >
 				<?php
     				$servername = "localhost";
-    				$username = "DBgod";
-    				$password = "dbGOD";
+    				$usuname = "root";
+                    $pass = "contraseña";
     				$dbname = "DBusb";
 				    
     				// Create connection
@@ -225,8 +223,8 @@ if ($_SESSION['user'] == 2){
                 <select name="grupo" id="grupo" >
 				<?php
     				$servername = "localhost";
-    				$username = "DBgod";
-    				$password = "DBgod";
+    				$usuname = "root";
+                    $pass = "contraseña";
     				$dbname = "DBusb";
 				    
     				// Create connection
@@ -251,7 +249,7 @@ if ($_SESSION['user'] == 2){
 				</select>
             </div>
             <div class="form-group">
-                <input type="submit" value="Assignar" class="btn" />
+                <input type="submit" value="Assign" class="btn-default" />
             </div>
         </form>
     </div>                    
@@ -260,8 +258,8 @@ if ($_SESSION['user'] == 2){
     <br>
     <?php
     $servername = "localhost";
-    $username = "DBgod";
-    $password = "DBgod";
+    $usuname = "root";
+    $pass = "contraseña";
     $dbname = "DBusb";
     
     // Create connection
@@ -275,7 +273,7 @@ if ($_SESSION['user'] == 2){
     $result = $conn->query($sql);
     
     if ($result->num_rows > 0) {
-        echo "<table style='margin: 0 auto; border: 2px solid; border-collapse:collapse; cellpadding: 15px;'><tr><th>ID</th><th>Nombre</th></tr>";
+        echo "<table style='margin: 0 auto; border: 2px solid; border-collapse:collapse; cellpadding: 15px;'><tr><th>ID</th><th>Name</th></tr>";
         // output data of each row
         while($row = $result->fetch_assoc()) {
             echo "<tr><td>".$row["id_usb"]."</td><td>".$row["nombre"]."</td></tr>";

@@ -1,7 +1,7 @@
 <?php
 session_start();
 if (!isset($_SESSION['user'])) {
-    header('Location: inicio.php');
+    header('Location: login.php');
     exit;
 }
 if ($_SESSION['user'] != 2) {
@@ -15,8 +15,8 @@ if ($_POST) {
     $grupo = $_POST['grupo'];
 
     $servername = "localhost";
-    $usuname = "DBgod";
-    $pass = "DBgod";
+    $usuname = "root";
+    $pass = "contraseña";
     $dbname = "DBusb";
     
     // Create connection
@@ -29,13 +29,13 @@ if ($_POST) {
     $result = mysqli_query($conn, $query);
 
     if (mysqli_num_rows($result) > 0) {
-	echo "<script> alert('Este usuario ya esta en este grupo'); </script>";
+	echo "<script> alert('This user is in the group already'); </script>";
     } else {
         $insert = "INSERT INTO ubic (id_gr, id_usu) VALUES ('$grupo', '$username')";
 	if (mysqli_query($conn, $insert)){ 
-            header('Location: grupos.php');
+            header('Location: groups.php');
             exit;
-            echo "Alta registre";
+            echo "Registered correctly";
     }
 }
 

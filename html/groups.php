@@ -1,7 +1,7 @@
 <?php
 session_start();
 if (!isset($_SESSION['user'])) {
-    header('Location: inicio.php');
+    header('Location: login.php');
     exit;
 }
 if ($_SESSION['user'] != 2) {
@@ -144,7 +144,7 @@ button {
   font-size: 18px;
   border-radius: 5px;
   border: none;
-  background-color: blue;
+  background-color: green;
   color: white;
   cursor: pointer;
   margin: 0 90px;
@@ -155,42 +155,42 @@ button {
 </head>
 <body>
 <h1>
-  Introducir nombre de empresa
+safeUSB
 </h1>
 <div class="topnav">
-  <a class="active" <href="index.php">Inicio</a>
-  <a href="index2.php">Archivos</a>
-  <a href="inicio.php">Iniciar sesión</a>
-  <a href="registro.php">Registrarse</a>
+  <a href="index.php">About us</a>
+  <a href="index2.php">Files</a>
+  <a href="login.php">Log in</a>
+  <a href="signin.php">Sign in</a>
 </div>
 <div class='nav2'>
 <?php
 if ($_SESSION['user'] == 2){
-	echo "<a href='grupos.php'>Grupos</a>"; 
-	echo "<a href='assignacion.php'>Assignación USB</a> ";
-	echo "<a href='administración.php'>Administración</a> ";
+	echo "<a href='assignation.php'>USB Assignation</a> ";
+  echo "<a href='groups.php'>Groups</a>"; 
+	
 }
 ?>
 </div>
 <br>
 <br>
     <div id="botones">
-      <button id="boton1">Crear grupo</button>
-      <button id="boton2">Añadir usario a grupos</button>
+      <button id="boton1">Add Group</button>
+      <button id="boton2">Add user to an existing group</button>
     </div>
     <div id="formulario1" style="display: none;">
-	<form action="crear.php" method="post" name="form1" id="form1">
+	<form action="create.php" method="post" name="form1" id="form1">
             <div class="form-group">
-                <label for="username">Nombre del grupo</label>
+                <label for="username">Group Name</label>
                 <input type="text" name="grupo" id="grupo" />
             </div>
             <div class="form-group">
-                <label for="username">Propietario</label>
+                <label for="username">Owner</label>
                 <select name="username" id="username" >
 				<?php
     				$servername = "localhost";
-    				$username = "DBgod";
-    				$password = "dbGOD";
+    				$username = "root";
+            $password = "contraseña";
     				$dbname = "DBusb";
 				    
     				// Create connection
@@ -216,19 +216,19 @@ if ($_SESSION['user'] == 2){
                 
             </div>
             <div class="form-group">
-                <input type="submit" value="Crear Grupo" class="btn" />
+                <input type="submit" value="New Group" class="btn-default" />
             </div>
         </form>
     </div>
     <div id="formulario2" style="display: none;">
-	<form action="añadirg.php" method="post" name="form2" id="form2">
+	<form action="addgr.php" method="post" name="form2" id="form2">
             <div class="form-group">
-                <label for="username">Nombre del grupo</label>
+                <label for="username">Group Name</label>
                 <select name="grupo" id="grupo" >
 				<?php
     				$servername = "localhost";
-    				$username = "DBgod";
-    				$password = "DBgod";
+    				$usuname = "root";
+            $pass = "contraseña";
     				$dbname = "DBusb";
 				    
     				// Create connection
@@ -253,12 +253,12 @@ if ($_SESSION['user'] == 2){
 				</select>
             </div>
             <div class="form-group">
-                <label for="usuario">Usuario</label>
+                <label for="usuario">Username</label>
                 <select name="usuario" id="usuario" >
 				<?php
     				$servername = "localhost";
-    				$username = "DBgod";
-    				$password = "dbGOD";
+    				$usuname = "root";
+            $pass = "contraseña";
     				$dbname = "DBusb";
 				    
     				// Create connection
@@ -283,7 +283,7 @@ if ($_SESSION['user'] == 2){
           </select>
             </div>
             <div class="form-group">
-                <input type="submit" value="Insertar" class="btn" />
+                <input type="submit" value="Insert" class="btn-default" />
             </div>
         </form>
     </div>
@@ -305,3 +305,4 @@ if ($_SESSION['user'] == 2){
     </script>
 </body>
 </html>
+

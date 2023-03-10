@@ -11,8 +11,8 @@ if ($_POST) {
     $password = $_POST['password'];
 
     $servername = "localhost";
-    $usuname = "DBgod";
-    $pass = "dbGOD";
+    $usuname = "root";
+    $pass = "contraseña";
     $dbname = "DBusb";
     
     // Create connection
@@ -25,12 +25,12 @@ if ($_POST) {
     $result = mysqli_query($conn, $query);
 
     if (mysqli_num_rows($result) > 0) {
-	echo "<script> alert('Este nombre de usuario ya esta en uso, inserta uno diferente'); </script>";
+	echo "<script> alert('This username is currently on use, please select other'); </script>";
     } else {
         $insert = "INSERT INTO usuarios (nombre, pass) VALUES ('$username', '$password')";
 	if (mysqli_query($conn, $insert)) 
 
-            echo "Alta registre";
+            echo "User correctly signed in";
     }
 
     mysqli_close($conn);
@@ -39,7 +39,7 @@ if ($_POST) {
 
 <html>
 <head>
-    <title>Login Page</title>
+    <title>Sign in</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -78,7 +78,7 @@ if ($_POST) {
         }
         body {
             margin: 0;
-            font-family: Arial, Helvetica, sans-serif;
+            font-family: Arial, Helvetica, Roboto;
         }
 
         .topnav {
@@ -131,20 +131,20 @@ if ($_POST) {
 </head>
 <body>
 <h1>
-  Introducir nombre de empresa
+  safeUSB
 </h1>
 <div class="topnav">
-  <a class="active" href="index.php">Inicio</a>
-  <a href="index2.php">Archivos</a>
-  <a href="inicio.php">Iniciar sesión</a>
-  <a href="registrar.php">Registrarse</a>
+  <a href="index.php">About us</a>
+  <a href="index2.php">Files</a>
+  <a href="login.php">Log in</a>
+  <a href="signin.php">Sign in</a>
 </div>
 <div class='nav2'>
 <?php
 if ($_SESSION['user'] == 2){
-	echo "<a href='grupos.php'>Inicio</a>"; 
-	echo "<a href='assignacion.php'>Assignación USB</a> ";
-	echo "<a href='administración.php'>Administración</a> ";
+	echo "<a href='assignation.php'>USB Assignation</a> ";
+    echo "<a href='groups.php'>Groups</a>"; 
+	
 }
 ?>
 </div>
@@ -152,20 +152,20 @@ if ($_SESSION['user'] == 2){
     <br>
     <br>
     <div id="container">
-        <h1>Registrarse</h1>
+        <h1>Sign in</h1>
         <form method="post">
             <div class="form-group">
-                <label for="username">Usuario</label>
+                <label for="username">Username</label>
                 <input type="text" name="username" id="username" />
             </div>
             <div class="form-group">
-                <label for="password">Contraseña</label>
+                <label for="password">Password</label>
                 <input type="password" name="password" id="password" />
             </div>
             <div class="form-group">
-                <input type="submit" value="Iniciar Sesión" class="btn" />
+                <input type="submit" value="Sign in" class="btn-default" />
             </div>
         </form>
-    </div>
+</div>
 </body>
 </html>
